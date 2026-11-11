@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <style>
+    .s { fill: #0f2a4a; }
+    @media (prefers-color-scheme: dark) { .s { fill: #ffffff; } }
+  </style>
+  <text class="s" x="25" y="52" font-family="Segoe UI, Arial, sans-serif" font-weight="800" font-size="66" text-anchor="middle">s</text>
+  <circle cx="52" cy="46" r="7" fill="#10b981"/>
+</svg>
